@@ -76,9 +76,9 @@
 
 // console.log(removeDuplicate([10, 20, 1, 4, 2, 4, 2]));
 
-function findCommanElement(arr1, arr2) {
-  const comman = arr1.filter((item) => arr2.includes(item));
-  return comman;
-}
+// function findCommanElement(arr1, arr2) {
+//   const comman = arr1.filter((item) => arr2.includes(item));
+//   return comman;
+// }
 
-console.log(findCommanElement([1, 2, 3, 4], [5, 3, 2, 7]));
+// console.log(findCommanElement([1, 2, 3, 4], [5, 3, 2, 7]));
